@@ -1,6 +1,6 @@
-# Sliding Puzzle
+# Lucas Jumps
 
-A simple adjustable sliding puzzle mini-game that runs on Windows Console made in C++
+Lucas Jumps for windows terminal in c++
 
 ## Features
     ASCII art,
